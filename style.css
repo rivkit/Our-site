@@ -1,0 +1,20 @@
+.div2{
+    margin: 10px auto;
+    text-align: center;
+    border: 5px solid rgb(45, 23, 23);
+    width: 30%;
+    padding: 20px;
+    background-color:aqua;
+    border-radius: 25px;
+    height: 60%;
+
+}
+div{
+    border: 2px solid rgb(45, 23, 23);
+    padding: 20px;
+    border-radius: 25px;
+
+}
+.div3{
+    width: 75%;
+}
